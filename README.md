@@ -2,6 +2,8 @@
 
 This project detects whether a social media post indicates psychological stress.
 
+https://huggingface.co/spaces/sevvaliclal/StressDetectionApp
+
 ## Problem Type
 - Binary Classification
 - Labels:
